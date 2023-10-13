@@ -1,0 +1,139 @@
+.carousel {
+	padding-top: 20px
+}
+
+.slide {}
+
+.carousel-inner {}
+
+.carousel-item {}
+
+.active {}
+
+.d-block {}
+
+.w-100 {}
+
+.carousel-control-prev {}
+
+.carousel-control-prev-icon {}
+
+.visually-hidden {}
+
+.carousel-control-next {}
+
+.carousel-control-next-icon {}
+
+/* категории еды */
+/* категории еды */
+/* категории еды */
+/* категории еды */
+/* категории еды */
+.catagrori {}
+
+.text-center {}
+
+.align-items-start {}
+
+.col {}
+
+.card {}
+
+.card-img-top {}
+
+.card-body {}
+
+.card-title {}
+
+.card-text {}
+
+.btn {
+	color:
+}
+
+.btn-primary {}
+
+.color {}
+
+/*  тектс */
+.footer-fluid {}
+
+.map {}
+
+.text-center {}
+
+.col {}
+
+/* otsisi */
+.carousel {}
+
+.slide {}
+
+.carousel-inner {}
+
+.carousel-item {}
+
+.active {}
+
+.text-center {}
+
+.align-items-start {}
+
+.col {}
+
+.card {}
+
+.card-body {}
+
+.card-title {}
+
+.card-subtitle {}
+
+.mb-2 {}
+
+.text-body-secondary {}
+
+.card-text {}
+
+.carousel-control-prev {}
+
+.carousel-control-prev-icon {}
+
+.visually-hidden {}
+
+.carousel-control-next {}
+
+.carousel-control-next-icon {}
+
+/* футреп */
+
+.footer {
+	height: 152px;
+}
+
+.footer-container {
+	margin: 0px 147px;
+}
+
+.footer-line {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer-text {
+	padding-left: 147px;
+	padding-top: 60px;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.footer-img {
+	padding-top: 55px;
+}
+
+.footer-phone {
+	padding-top: 60px;
+	padding-right: 147px;
+	font-size: 22px;
+	font-weight: 700;
+}
